@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "billyplayz123",
     "password": "",
-    "type": "offline"
+    "type": "oline"
   },
   "server": {
-    "ip": "chiragbishnoi.aternos.me",
-    "port": 21276,
+    "ip": "dirtsmp-S8VZ.aternos",
+    "port": 62573,
     "version": "1.21.1"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to northergamers!",
         "I like to play Minecraft!"
       ]
     },
@@ -78,7 +78,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.gg/XraRkW4MCP",
     "events": {
       "connect": true,
       "disconnect": true,
